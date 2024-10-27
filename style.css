@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f7f7f7;
+    background-color: #008000;
     color: #008000;
 }
 
@@ -16,7 +16,7 @@ body {
 
 header {
     background-color: #ff6f61;
-    color: #fff;
+    color: #008000;
     padding: 20px 0;
     text-align: center;
 }
@@ -35,7 +35,7 @@ a {
 }
 
 a.button {
-    background-color: #fff;
+    background-color: #008000;
     color: #ff6f61;
     padding: 10px 20px;
     border-radius: 5px;
@@ -43,7 +43,7 @@ a.button {
 
 footer {
     background-color: #008000;
-    color: #fff;
+    color: #008000;
     text-align: center;
     padding: 20px 0;
     margin-top: 50px;
